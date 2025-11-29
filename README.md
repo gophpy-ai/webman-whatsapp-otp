@@ -1,2 +1,6 @@
-# webman-whatsapp-otp
-WhatsApp OTP Login plugin for Webman with JWT authentication
+# Webman WhatsApp OTP Plugin
+
+Install:
+```
+composer require yourname/webman-whatsapp-otp
+```
