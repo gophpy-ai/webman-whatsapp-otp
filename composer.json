@@ -1,9 +1,9 @@
 {
-  "name": "yourname/webman-whatsapp-otp",
+  "name": "gophpy-ai/webman-whatsapp-otp",
   "description": "WhatsApp OTP Login plugin for Webman with JWT authentication",
   "type": "webman-plugin",
   "license": "MIT",
-  "authors": [{ "name": "Your Name" }],
+  "authors": [{ "name": "gophpy-ai }],
   "require": {
     "php": ">=7.4",
     "firebase/php-jwt": "^6.0"
