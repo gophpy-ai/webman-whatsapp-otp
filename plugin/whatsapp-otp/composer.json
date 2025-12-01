@@ -1,0 +1,21 @@
+{
+  "name": "gophpy-ai/webman-whatsapp-otp",
+  "description": "WhatsApp OTP plugin for Webman 2.x, PHP 8.2+ (OTP via WhatsApp Cloud API, JWT + Refresh)",
+  "type": "webman-plugin",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.2",
+    "firebase/php-jwt": "^6.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "plugin\\\\whatsappOtp\\\\": "plugin/whatsapp-otp/app/"
+    }
+  },
+  "extra": {
+    "webman-plugin": {
+      "name": "whatsapp-otp",
+      "version": "1.0.0"
+    }
+  }
+}
